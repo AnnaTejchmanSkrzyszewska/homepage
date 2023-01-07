@@ -1,0 +1,27 @@
+.navigation {
+    background-image: url(https://i.postimg.cc/MKC7ptrs/DSC-5788.jpg);
+    padding: 20px;
+    margin: 20px auto;
+    line-height: 2;
+    box-shadow: 2px 2px 8px hsl(180, 3%, 15%);
+    max-width: 1000px;
+}
+
+.navigation__list {
+    list-style-type: none;
+}
+
+.navigation__listItem {
+    margin: 10px 0;
+}
+
+.navigation__link {
+    text-decoration: none;
+    font-weight: 900px;
+    text-shadow: 10px;
+    color:white;
+}
+
+.navigation__button {
+    padding: 10px;
+}

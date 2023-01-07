@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    max-width: 1000px;
+    color: #333;
+    margin: 0 auto;
+}
+
+.header {
+    text-shadow: 1px 2px 2px grey;
+    font-family: 'Roboto Mono', monospace;;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.dark {
+    background: #222;
+}
+
+
+

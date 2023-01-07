@@ -1,0 +1,56 @@
+.section {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 20px auto;
+    line-height: 2;
+    box-shadow: 2px 2px 8px #ccc;
+    max-width: 1000px;
+}
+
+.section__header {
+    color: rgb(61, 61, 68);
+}
+
+.section__container {
+    overflow-x: auto;
+} 
+
+.section__table {
+    border-collapse: collapse;
+    max-width: 100%
+}
+
+.section__caption {
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 20px;
+}
+
+.section__tableCell--header {
+    border: 2px solid rgb(46, 46, 46);
+    padding: 20px;
+    text-align: center;
+    background-color: #3f444e;
+    color: white;
+    font-weight: normal;  
+}
+
+.section__tableCell {
+    border: 2px solid rgb(46, 46, 46);
+    padding: 20px;
+    text-align: center;
+}
+
+.section__tableRow:nth-child(even) {
+    background: #eee;
+}
+
+.section__tableRow:hover {
+    background-color: hsl(0, 0%, 80%);
+}
+
+.section__quotation {
+    max-width: 300px;
+    text-shadow: 2px 2px 3px rgb(75, 75, 75);
+    margin: auto;
+}
