@@ -4,7 +4,7 @@
 
 https://annatejchmanskrzyszewska.github.io/homepage/
 
-[Homepage Gif]()
+[Homepage Gif](images/homepageGif.gif)
 
 ## Description
 
