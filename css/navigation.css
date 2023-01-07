@@ -1,5 +1,5 @@
 .navigation {
-    background-image: url(https://i.postimg.cc/MKC7ptrs/DSC-5788.jpg);
+    background-color: whitesmoke;
     padding: 20px;
     margin: 20px auto;
     line-height: 2;
@@ -19,7 +19,7 @@
     text-decoration: none;
     font-weight: 900px;
     text-shadow: 10px;
-    color:white;
+    color: #333;
 }
 
 .navigation__button {

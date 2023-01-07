@@ -13,18 +13,20 @@ body {
     max-width: 1000px;
     color: #333;
     margin: 0 auto;
+    background-image: url(https://i.postimg.cc/qvDPxmPS/max-van-den-oetelaar-buym-Ym3-RQ3-U-unsplash.jpg);
+    background-repeat: repeat-y;
+    background-size:contain;
 }
 
 .header {
+    color: whitesmoke;
     text-shadow: 1px 2px 2px grey;
-    font-family: 'Roboto Mono', monospace;;
+    font-family: 'Montserrat', sans-serif;
     padding: 20px;
     font-size: 40px;
+    font-weight: 1000px;
 }
 
 .dark {
     background: #222;
 }
-
-
-
