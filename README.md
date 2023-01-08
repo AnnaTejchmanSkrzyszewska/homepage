@@ -15,3 +15,5 @@ Technologies:
 - JS
 - BEM
 - GIT
+
+This site is based on my first web site. I have changed few things and now it looks better but still I have a lot to learn. I'm really optimistic about my progress in frontend development :) 
